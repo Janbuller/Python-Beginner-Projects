@@ -1,4 +1,4 @@
-\# M8Ball
+# M8Ball
 M8Ball is a python script that is imitating a Magic8Ball.<br />
 This has no graphics and is only controlled using the python CLI.
 
