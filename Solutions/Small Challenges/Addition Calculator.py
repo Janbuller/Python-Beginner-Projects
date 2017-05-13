@@ -1,7 +1,7 @@
 from os import system
 from time import sleep as slp
 print("Addition Calculator")
-numList = ()
+numList = []
 whileLoop1 = 0
 while whileLoop1 == 0:
     numList.append(int(input("Please type a number:")))
