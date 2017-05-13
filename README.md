@@ -1,3 +1,4 @@
-# Python-Learning
-This is just a repository with different small python projects.<br />
-Don't use these as they a just made to teach me different parts of the language.
+# Python Beginner Projects
+In the challenges folder are some text documents with challenges to complete.
+
+The solutions are in the Solutions folder.
