@@ -12,12 +12,7 @@ while True:
     print('Type \'Quit\' to Quit')
     User_Input = input('What is your question: ')
 
-    if User_Input == 'Quit':
-        Asked_File = open('Asked.txt', 'a')
-        Asked_File.write(str(Asked))
-        Asked_File.close()
-        break
-    elif User_Input == 'quit':
+    if User_Input == 'Quit' or User_Input == 'quit' or User_Input == 'qUit' or User_Input == 'quIt' or User_Input == 'quiT' or User_Input == 'QUit' or User_Input == 'qUIt' or User_Input == 'quIT' or User_Input == 'QUIt' or User_Input == 'qUIT' or User_Input == 'QuIT' or User_Input == 'QUiT' or User_Input == 'QUiT' or User_Input == 'QuIt' or User_Input == 'qUiT' or User_Input == 'QUIT':
         Asked_File = open('Asked.txt', 'a')
         Asked_File.write(str(Asked))
         Asked_File.close()
