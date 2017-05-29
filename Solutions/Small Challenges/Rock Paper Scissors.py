@@ -56,7 +56,7 @@ while True:
     else:
         print("Please only type 1, 2 or 3")
     time.sleep(2)
-    Again = int(input("Type 1 to play again else type enter"))
+    Again = int(input("Type 1 to play again else press enter"))
     if Again == 1:
         Again = 0
     else:
