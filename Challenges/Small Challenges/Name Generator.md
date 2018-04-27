@@ -1,6 +1,6 @@
 # Name Generator Challenge
 
-##Challenge 1
+## Challenge 1
 Make a name generator that makes random names using these names.
 
 First Names = "Adam", "Bob", "Tom", "Ellis", "Monet", "Franklyn", "Gwen", "Peter", "Neil", "Leonard", "Howard", "Brian", "Penny", "Matthew", "Joe", "Albert", "Jane", "Gordon", "Jack", "Lois", "Kyle", "Kenny", "Steve", "Olivia", "Janelle", "Malissa", "Hailey", "Katie", "James", "John", "Robert", "Micheal", "William", "Charles", "David"
